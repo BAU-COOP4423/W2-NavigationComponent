@@ -4,6 +4,7 @@
 
 ## Used Technologies
 - <a href="https://developer.android.com/guide/navigation/navigation-getting-started" target="_blank">Navigation Component</a>
+- <a href="https://developer.android.com/guide/fragments/lifecycle" target="_blank">Fragment Lifecycle</a>
 
 ## Clone the Repository
 
@@ -20,6 +21,7 @@ git clone https://github.com/BAU-COOP4423/W2-NavigationComponent.git
 ## Utilized resources
 - <a href="https://medium.com/huawei-developers/navigation-component-starting-guide-1-navigation-between-fragments-24532aae5e8f" target="_blank">Navigation Component Starting Guide #1-Navigation Between Fragments</a>
 - <a href="https://medium.com/androiddevelopers/navigation-component-an-overview-4697a208c2b5" target="_blank">Navigation Component: An Overview</a>
+- <a href="https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd" target="_blank">The Android Lifecycle cheat sheet — part III : Fragments</a>
 
 
 #### Note:
